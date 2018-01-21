@@ -1,0 +1,10 @@
+What are the inputs?
+
+1. Number of variables present in the equation.
+2. Till which number the iterations must happen.
+3. "The equation", right now we will just hardcode that.
+4. Let the probability distributions be hardcoded as of now:
+	a. exponential and normal
+    b. normal and lognormal
+	c. normal and uniform
+	d. lognormal and lognormal
